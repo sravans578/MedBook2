@@ -1,5 +1,4 @@
 # MedBook
 
-An android application for findinf nearby medical stores.
+An android application for finding nearby medical stores.
 
-Mini project
